@@ -1,1 +1,3 @@
+lang: en 
+languages: ["en", "de"] 
 theme: jekyll-theme-tactile
